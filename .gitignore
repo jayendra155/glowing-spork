@@ -29,5 +29,6 @@ mvn*
 logs/
 *.log
 bin/
+target
 
 *logs/
